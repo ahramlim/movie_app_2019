@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef7f2e13-59cd-41e4-92be-58e83f729db8" name="Default Changelist" comment="">
+    <list default="true" id="ef7f2e13-59cd-41e4-92be-58e83f729db8" name="Default Changelist" comment="made list &amp; add css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +99,8 @@
       <workItem from="1578527834291" duration="8675000" />
       <workItem from="1578635166838" duration="7493000" />
       <workItem from="1578873320134" duration="17000" />
-      <workItem from="1579055592427" duration="12097000" />
+      <workItem from="1579055592427" duration="13059000" />
+      <workItem from="1579132565496" duration="324000" />
     </task>
     <task id="LOCAL-00001" summary="made list &amp; add css">
       <created>1579077553988</created>
@@ -109,11 +109,41 @@
       <option name="project" value="LOCAL" />
       <updated>1579077553988</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="made list &amp; add css">
+      <created>1579077705582</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579077705582</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="made list &amp; add css" />
@@ -128,22 +158,30 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="2637" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1578295773363" />
-    <state x="2524" y="50" key="CommitChangelistDialog2" timestamp="1579077551190">
+    <state x="2524" y="50" key="CommitChangelistDialog2" timestamp="1579078161946">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state x="2524" y="50" key="CommitChangelistDialog2/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579077551190" />
+    <state x="2524" y="50" key="CommitChangelistDialog2/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579078161946" />
+    <state x="2082" y="100" width="1650" height="880" key="DiffContextDialog" timestamp="1579077902132">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2082" y="100" width="1650" height="880" key="DiffContextDialog/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579077902132" />
     <state x="2758" y="434" key="Github.ShareDialog" timestamp="1578294416845">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="2758" y="434" key="Github.ShareDialog/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1578294416845" />
-    <state x="2490" y="272" key="Vcs.Push.Dialog.v2" timestamp="1578295020820">
+    <state x="2408" y="182" key="SettingsEditor" timestamp="1579077912899">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state x="2490" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1578295020820" />
-    <state x="2710" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579077691230">
+    <state x="2408" y="182" key="SettingsEditor/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579077912899" />
+    <state x="2490" y="272" key="Vcs.Push.Dialog.v2" timestamp="1579078133290">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state x="2710" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579077691230" />
+    <state x="2490" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579078133290" />
+    <state x="2710" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579077891685">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2710" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579077891685" />
     <state x="1982" y="0" width="740" height="1025" maximized="true" key="dock-window-1" timestamp="1578550830145">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>

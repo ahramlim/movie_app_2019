@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ef7f2e13-59cd-41e4-92be-58e83f729db8" name="Default Changelist" comment="made list &amp; add css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +102,8 @@
       <workItem from="1578635166838" duration="7493000" />
       <workItem from="1578873320134" duration="17000" />
       <workItem from="1579055592427" duration="13059000" />
-      <workItem from="1579132565496" duration="324000" />
+      <workItem from="1579132565496" duration="1007000" />
+      <workItem from="1579139101724" duration="3000000" />
     </task>
     <task id="LOCAL-00001" summary="made list &amp; add css">
       <created>1579077553988</created>
@@ -174,10 +177,10 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="2408" y="182" key="SettingsEditor/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579077912899" />
-    <state x="2490" y="272" key="Vcs.Push.Dialog.v2" timestamp="1579078133290">
+    <state x="2490" y="272" key="Vcs.Push.Dialog.v2" timestamp="1579136912506">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state x="2490" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579078133290" />
+    <state x="2490" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579136912506" />
     <state x="2710" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579077891685">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
@@ -190,10 +193,10 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="2581" y="258" width="787" height="570" key="find.popup/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579067583879" />
-    <state x="2555" y="254" key="run.anything.popup" timestamp="1578460919601">
+    <state x="2555" y="254" key="run.anything.popup" timestamp="1579155879956">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state x="2555" y="254" key="run.anything.popup/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1578460919601" />
+    <state x="2555" y="254" key="run.anything.popup/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579155879956" />
     <state x="2563" y="242" key="search.everywhere.popup" timestamp="1578363097774">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>

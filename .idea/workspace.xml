@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef7f2e13-59cd-41e4-92be-58e83f729db8" name="Default Changelist" comment="made list &amp; add css">
+    <list default="true" id="ef7f2e13-59cd-41e4-92be-58e83f729db8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/Home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Movie.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Movie.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Movie.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Movie.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -54,6 +59,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\movie_app_2019\src\routes" />
+      <recent name="H:\movie_app_2019\src\components" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="H:\movie_app_2019\src" />
     </key>
@@ -103,7 +112,9 @@
       <workItem from="1578873320134" duration="17000" />
       <workItem from="1579055592427" duration="13059000" />
       <workItem from="1579132565496" duration="1007000" />
-      <workItem from="1579139101724" duration="3000000" />
+      <workItem from="1579139101724" duration="10919000" />
+      <workItem from="1579478134607" duration="14326000" />
+      <workItem from="1579564256202" duration="4247000" />
     </task>
     <task id="LOCAL-00001" summary="made list &amp; add css">
       <created>1579077553988</created>
@@ -119,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579077705582</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="made list &amp; add css">
+      <created>1579157113475</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579157113475</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,10 +179,10 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="2637" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1578295773363" />
-    <state x="2524" y="50" key="CommitChangelistDialog2" timestamp="1579078161946">
+    <state x="2524" y="50" key="CommitChangelistDialog2" timestamp="1579157111724">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state x="2524" y="50" key="CommitChangelistDialog2/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579078161946" />
+    <state x="2524" y="50" key="CommitChangelistDialog2/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579157111724" />
     <state x="2082" y="100" width="1650" height="880" key="DiffContextDialog" timestamp="1579077902132">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
@@ -177,10 +195,10 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="2408" y="182" key="SettingsEditor/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579077912899" />
-    <state x="2490" y="272" key="Vcs.Push.Dialog.v2" timestamp="1579136912506">
+    <state x="2490" y="272" key="Vcs.Push.Dialog.v2" timestamp="1579158959903">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state x="2490" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579136912506" />
+    <state x="2490" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579158959903" />
     <state x="2710" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579077891685">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
@@ -189,14 +207,14 @@
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
     <state x="1982" y="0" width="740" height="1025" maximized="true" key="dock-window-1/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1578550830145" />
-    <state x="2581" y="258" width="787" height="570" key="find.popup" timestamp="1579067583879">
+    <state x="2581" y="258" width="787" height="570" key="find.popup" timestamp="1579487729047">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state x="2581" y="258" width="787" height="570" key="find.popup/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579067583879" />
-    <state x="2555" y="254" key="run.anything.popup" timestamp="1579155879956">
+    <state x="2581" y="258" width="787" height="570" key="find.popup/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579487729047" />
+    <state x="2555" y="254" key="run.anything.popup" timestamp="1579566054863">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
-    <state x="2555" y="254" key="run.anything.popup/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579155879956" />
+    <state x="2555" y="254" key="run.anything.popup/0.0.1920.1080/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579566054863" />
     <state x="2563" y="242" key="search.everywhere.popup" timestamp="1578363097774">
       <screen x="1982" y="0" width="1858" height="1080" />
     </state>
